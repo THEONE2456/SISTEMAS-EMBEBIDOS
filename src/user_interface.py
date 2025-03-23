@@ -1,5 +1,5 @@
 my_diccionary = {
-    "IQ": "110",
+    "IQ": "88",
     "edad": "20",
     "sexo": "M",
     "grupo_fav": "QUEEN",
