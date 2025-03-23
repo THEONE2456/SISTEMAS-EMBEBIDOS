@@ -9,7 +9,7 @@ def create_dictionary(first_name, last_name, age, height, weight, birth_place, b
         "birthday": birthday,         
         "blood_type": blood_type,         
         "curp": curp,  # Asegúrate de pasar el valor como string
-        "rfc": rfc     # Asegúrate de pasar el valor como string
+        "rfc": rfc     
     }     
     return user_info  
 
